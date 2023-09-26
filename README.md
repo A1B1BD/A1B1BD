@@ -15,10 +15,4 @@ Skills: <h4 style="color:tomato;" scroll="12">im do not show my skills.</h4>
 
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=https://github.com/A1B1BD/)  
 
-![GitHub metrics](https://metrics.lecoq.io/https://github.com/A1B1BD/)  
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=https://github.com/A1B1BD/)  
-
-![Profile views](https://gpvc.arturio.dev/https://github.com/A1B1BD/)  
